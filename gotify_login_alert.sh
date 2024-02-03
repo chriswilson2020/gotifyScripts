@@ -2,7 +2,7 @@
 
 # Configuration
 GOTIFY_URL="[URL TO YOUR GOTIFY SERVER]"
-TOKEN=[INSERT API KEY HERE]
+TOKEN="[INSERT API KEY HERE]"
 PRIORITY=5
 
 # Extract the IP address from the SSH_CONNECTION variable
